@@ -6,6 +6,4 @@ Find The Download in releases https://github.com/Noah-It-All/ADB-Installer/relea
 
 If chrome shows this simply click on the aarow and click keep
 
-<img>
-https://i.imgur.com/XzAe2HK.png
-<img>
+![alt text](https://i.imgur.com/XzAe2HK.png)
